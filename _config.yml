@@ -1,8 +1,8 @@
-theme: made
-site: Made Jekyll Theme
+theme: Made Jekyll Theme
+site: Douglas Volunteer Fire Department
 
 url: https://douglasfiredept.org
-baseurl: https://douglasfiredept.org/
+baseurl: 
 
 collections:
   pages:
